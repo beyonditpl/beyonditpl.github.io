@@ -23,6 +23,8 @@ youtube_username: kamil.jarocha@gmail.com
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
+cert_image_aws_devops: images/AWS-DevOpsEngineer-Professional.png
+cert_image_aws_sysops: images/AWS-SysOpAdmin-Associate.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kamil and I'm a senior cloud architect and DevSecOps. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
